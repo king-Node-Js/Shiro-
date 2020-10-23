@@ -1,0 +1,26 @@
+{
+  "name": "watame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "c": "^1.1.1",
+    "canvas": "^2.6.1",
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.0",
+    "ms": "^2.1.2",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.2"
+}
+}
